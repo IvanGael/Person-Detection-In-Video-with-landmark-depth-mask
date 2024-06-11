@@ -35,7 +35,11 @@ py app.py
 ## Output
 The output will be displayed in a new window showing the real-time video stream. Detected persons will be outlined with bounding boxes, landmarks will be drawn on their bodies, and depth maps will be overlayed on the frames.
 
+** With landmarks drawing
 ![Demo](demo.png)
+
+** Without landmarks drawing
+![Demo](demo2.png)
 
 ## Acknowledgments
 - YOLOv5: Ultralytics/YOLOv5
